@@ -1,5 +1,5 @@
 # Bad Delta Class Resources
-Here you can find notes and resources from a class you attented, files use the following naming structure to facilitate locating them:
+Here you can find notes and resources from a class or workshop you attented, files use the following naming structure to facilitate locating them:
 
 **[Event or Organization Name]-[Class or Workshop Title].md**
 
