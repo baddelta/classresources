@@ -1,5 +1,5 @@
 # Flipper Zero 101
-
+**Date:** 05/21/2023
 
 ## Custom Firmware vs Official Firmware
 ### Official Firmware
