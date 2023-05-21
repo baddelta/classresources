@@ -1,5 +1,7 @@
 # Bad Delta Class Resources
-Notes and Resources for workshop or class attendees. 
+Here you can find notes and resources from a class you attented, files use the following naming structure to facilitate locating them:
+
+**[Event or Organization Name]-[Class or Workshop Title].md**
 
 ## Disclaimer
 The resources mentioned here are for experimental and educational purposes only and is not meant for any illegal activity/purposes. 
