@@ -1,4 +1,5 @@
-https://github.com/baddelta/classresources/blob/main/Bad%20Delta%20Banner.jpg
+![Bad Delta Banner](https://github.com/baddelta/classresources/assets/88166281/b6c23e05-67a5-436c-90ec-aded3ffb7e0e)
+
 # Bad Delta Class Resources
 Here you can find notes and resources from a class or workshop you attented, files use the following naming structure to facilitate locating them:
 
