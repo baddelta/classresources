@@ -47,6 +47,8 @@ The Flipper can be used as a powerful Wi-Fi Pentesting tool by adding the ESP32-
 - Handshake Extractor > https://hashcat.net/cap2hashcat/ 
 - Rockyou Password Wordlist > https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 - 74GB Wordlist Released – PrincessPi7.4 > https://h.acker.is/74gb-wordlist-released-princesspi7-4/
+#### Create a Inexpensive Router for Testing Wi-Fi Hacking
+Project > https://github.com/martin-ger/esp32_nat_router
 
 ## Links
 -	Official Docs > https://docs.flipperzero.one/ 
