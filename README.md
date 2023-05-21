@@ -1,4 +1,4 @@
-# classresources
+# Bad Delta Class Resources
 Notes and Resources for workshop or class attendees. 
 
 ## Disclaimer
